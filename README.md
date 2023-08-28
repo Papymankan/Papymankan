@@ -27,3 +27,9 @@
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
+<hr/>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papymankan&hide_progress=false&layout=donut&theme=dark" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Papymankan&show_icons=true&theme=dark" height="200px" />
+</p>
