@@ -5,7 +5,7 @@
     🧰  I always try to learn new technologies<br/>
     ✨  I listen to music and play football as my hobbies
 </p>
-<hr>
+
 
 <h3 align="left">⚙  My expertise</h3>
 <p align="left">
@@ -18,7 +18,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
 </p>
-<hr/>
+
 
 <h3 align="left">📱  My socials</h3>
 <p align="left">
