@@ -28,9 +28,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papymankan&hide_progress=false&layout=donut&theme=dark" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Papymankan&show_icons=true&theme=dark" height="200px" />
+    <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif" height="200px" />
 </p>
 
-<p align="center">
-    <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif" />
-</p>
