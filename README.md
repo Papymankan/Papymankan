@@ -34,6 +34,9 @@
 <a href="https://t.me/papymankan">
     <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" />
 </a>
+<a href="https://www.linkedin.com/in/parsa-rostami-js/">
+    <img alt="Telegram" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" />
+</a>
 </p>
 <hr/>
 
