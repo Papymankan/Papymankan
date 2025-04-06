@@ -13,6 +13,7 @@
 <img width="48" height="48" src="https://img.icons8.com/plasticine/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/officel/48/react.png" alt="react"/>
+    <img  width="48px" height="48" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" />
 <img width="48" height="48" src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" alt="bootstrap"/>
     <img  width="48px" height="48" src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png" />
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
